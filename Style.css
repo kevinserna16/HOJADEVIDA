@@ -1,0 +1,149 @@
+body{
+    background-image: url('jac.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
+header h1{
+    color: #fffefe;
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+form{
+    background-color: #ffffff;
+    margin-left: 13%;
+    margin-right: 13%;
+    height: 1070px;
+    border: 2px solid #000000;
+
+
+}
+img{
+    width: 62%;
+    height: 72%;
+    border-radius: 50%;
+    border: 2px solid #000000;
+    margin-left: 17%;
+    margin-top: 5%;
+    position: relative;
+}
+nav{
+    background-color: black;
+    width: 29%;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.cuadro h2{
+    text-align: center;
+    color: #001aff;
+}
+.cuadro ul{
+    margin-bottom: 0px;
+}
+.cuadro li{
+    margin-top: 10px;
+    list-style-type:none;
+    text-align:left;
+    color: #fffefe;
+}
+.datos{
+    font-weight: bold;
+    margin-bottom: 30px;
+    padding-bottom: 60%;
+}
+.datos li{
+    list-style-type:disc;
+    color: #001aff;
+    margin-left: 5%;
+}
+.principal{
+    background-color: #ffffff;
+    position:absolute;
+    padding: 0;
+    margin-left: 21.2%;
+    margin-right: 14%;
+    margin-top: 8.8%;
+    padding-left: 3%;
+    padding-right: 3%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.principal li{
+    margin-top: 13px;
+}
+.inicio{
+    background-color: black;
+    position: absolute;
+    width: 72.5%;
+    padding: 0;
+    margin-top: 3%;
+
+}
+.inicio h1{
+    text-align: right;
+    margin-right: 3%;
+    margin-top: 0%; ;
+    margin-bottom: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+.inicio h2{
+    text-align: right;
+    margin-right: 3%;
+    margin-top: 0%; ;
+    margin-bottom: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #8a8989;
+}
+i{
+    color: #001aff;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+th{
+    text-align: left;
+}   
+.p{
+    color: blue;
+    padding-left: 28%;
+}
+.v{
+    color: blue;
+    padding-left: 5%;
+}
+.t{
+    color: blue;
+    padding-left: 19%;
+}
+.j{
+    color: blue;
+    padding-left: 2%;  
+}
+.My{
+    color: blue;
+    padding-left: 12%;
+}
+.vs{
+    color: blue;
+    padding-left: 20%;
+}
+.ht{
+    color: blue;
+    padding-left: 7%;
+}
+.x{
+    color: blue;
+    padding-left: 10%;
+}
+.c{
+    color: blue;
+    padding-left: 17%;
+}
+h3{
+    text-decoration: underline;
+}
